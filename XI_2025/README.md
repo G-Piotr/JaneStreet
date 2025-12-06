@@ -1,6 +1,3 @@
-dark gray - parts of final grid <br>
-light gray - possible parts of final grid
-
 start with observation that single arrow:
 ```
 |??|??|??|??|
@@ -25,6 +22,13 @@ otherwise '->' would be replaced by different set of arrows, two arrows:
 ```
 etc.
 
+all possible cuboids with area 136 are:<br>
+```
+[(1, 2, 22), (2, 2, 16), (2, 4, 10), (2, 6, 7), (3, 4, 8)]
+```
+
+dark gray - parts of final grid <br>
+light gray - possible parts of final grid
 
 ![start](images/0.jpg)
 ![full](images/1.jpg)
