@@ -1,4 +1,4 @@
-dark gray - parts of final grid
+dark gray - parts of final grid <br>
 light gray - possible parts of final grid
 
 start with observation that single arrow:
